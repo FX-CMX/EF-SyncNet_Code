@@ -1,6 +1,3 @@
-
-
-
 ---
 
 ## 📜 License & Acknowledgments
@@ -32,7 +29,9 @@ This module incorporates gradient priors to capture spatial-domain edge informat
 
 ### 2.2 Wavelet-Guided Frequency Attention Module (WGFA)
 This module performs frequency-domain decoupling via wavelet transform to refine defect texture features while suppressing noise interference in complex backgrounds.
-<img width="662" height="243" alt="Fig7_EFCA" src="https://github.com/user-attachments/assets/21fafe34-4184-4a99-b2d6-8767ddb7d06d" />
+<img width="1165" height="701" alt="Fig6_WGFA" src="https://github.com/user-attachments/assets/cf1ba2fa-6e8f-4935-bdd2-fed8362088f4" />
+
+
 
 *Fig3:Schematic diagram of the proposed WGFA architecture.
 
@@ -43,5 +42,5 @@ This module utilizes edge priors as spatial anchors to constrain frequency-domai
 
 ### 2.4 Local Frequency Tuning Module (LFT)
 This module adaptively calibrates feature representations to eliminate artifacts introduced by multi-scale interpolation in the decoder, further enhancing the local details of the segmentation masks.
-<img width="1177" height="531" alt="LFT" src="https://github.com/user-attachments/assets/42afbd68-e0cf-493b-ab21-00124d5238ec" />
+<img width="1171" height="527" alt="Fig8_LFT" src="https://github.com/user-attachments/assets/554b2aec-af91-4ecc-8f52-feac10f71451" />
 *Fig5:Schematic diagram of the proposed LFT architecture.
