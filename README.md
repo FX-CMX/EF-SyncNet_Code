@@ -1,5 +1,6 @@
 
 
+
 ---
 
 ## 📜 License & Acknowledgments
@@ -16,6 +17,7 @@ We sincerely thank the authors for their contribution to the community. Please r
 ---
 
 
+
 ## 1. Model Architecture
 The proposed EF-SyncNet leverages a collaborative synchronization of spatial-domain edge priors and frequency-domain features to achieve robust and fine-grained industrial defect segmentation.
 <img width="1085" height="603" alt="Fig4_EF-SyncNet" src="https://github.com/user-attachments/assets/66e3ce30-f5d1-40b1-b361-c488a879d788" />
@@ -25,12 +27,13 @@ The proposed EF-SyncNet leverages a collaborative synchronization of spatial-dom
 
 ### 2.1 Edge-Guided Multi-Scale Context Module (EGMC)
 This module incorporates gradient priors to capture spatial-domain edge information, effectively alleviating the over-smoothing effect caused by downsampling and preserving the structural integrity of defects.
-<img width="1165" height="628" alt="EGMC" src="https://github.com/user-attachments/assets/da88dbec-3a1b-4fde-8bfd-515117288e19" />
+<img width="1166" height="638" alt="Fig5_EGMC" src="https://github.com/user-attachments/assets/98bfbe5c-586e-4fc1-a77c-2d45a36180d5" />
 *Fig2:Schematic diagram of the proposed EGMC architecture.
 
 ### 2.2 Wavelet-Guided Frequency Attention Module (WGFA)
 This module performs frequency-domain decoupling via wavelet transform to refine defect texture features while suppressing noise interference in complex backgrounds.
-<img width="1163" height="702" alt="WGFA" src="https://github.com/user-attachments/assets/04b5a31f-6e90-4555-911a-9d8980809a55" />
+<img width="662" height="243" alt="Fig7_EFCA" src="https://github.com/user-attachments/assets/21fafe34-4184-4a99-b2d6-8767ddb7d06d" />
+
 *Fig3:Schematic diagram of the proposed WGFA architecture.
 
 ### 2.3 Edge-Frequency Cross-Attention Module (EFCA)
