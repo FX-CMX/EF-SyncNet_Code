@@ -6,8 +6,6 @@
 
 **Copyright (c) 2026. All rights reserved.**
 
-This project is licensed under the **Apache License, Version 2.0**. You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
-
 This implementation is derived from or inspired by the following open-source projects:
 - [OpenMMLab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
 
