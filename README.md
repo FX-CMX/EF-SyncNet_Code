@@ -1,10 +1,12 @@
-# EF-SyncNet: An Edge–Frequency Synchronized Multi-scale Network
+<img width="564" height="670" alt="图片" src="https://github.com/user-attachments/assets/c1ddf5fa-ff15-49c7-8f3b-822d5e3fca3d" /># EF-SyncNet: An Edge–Frequency Synchronized Multi-scale Network
 
 ---
 
 ## 📜 License & Acknowledgments
 
 **Copyright (c) 2026. All rights reserved.**
+
+This project is licensed under the Apache License, Version 2.0. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
 
 This implementation is derived from or inspired by the following open-source projects:
 - [OpenMMLab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
