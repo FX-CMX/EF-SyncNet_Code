@@ -1,4 +1,5 @@
 
+
 ---
 
 ## 📜 License & Acknowledgments
@@ -38,7 +39,7 @@ This module performs frequency-domain decoupling via wavelet transform to refine
 
 ### 2.3 Edge-Frequency Cross-Attention Module (EFCA)
 This module utilizes edge priors as spatial anchors to constrain frequency-domain features, ensuring that semantic information is focused within defect boundaries and preventing the dispersion of background semantics.
-<img width="655" height="245" alt="EFCA" src="https://github.com/user-attachments/assets/c528849e-b2d5-420c-b9d0-b305939fb5c7" />
+<img width="662" height="243" alt="Fig7_EFCA" src="https://github.com/user-attachments/assets/82e96870-621d-4f2f-9fc6-34ef2409c7c6" />
 *Fig4:Schematic diagram of the proposed EFCA architecture.
 
 ### 2.4 Local Frequency Tuning Module (LFT)
