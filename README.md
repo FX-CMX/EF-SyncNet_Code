@@ -18,7 +18,7 @@ We sincerely thank the authors for their contribution to the community. Please r
 
 ## 1. Model Architecture
 The proposed EF-SyncNet leverages a collaborative synchronization of spatial-domain edge priors and frequency-domain features to achieve robust and fine-grained industrial defect segmentation.
-<img width="1071" height="631" alt="EF-SyncNet" src="https://github.com/user-attachments/assets/9a4bc7e8-ae59-4023-8156-dd590ac8bb72" />
+<img width="1085" height="603" alt="Fig4_EF-SyncNet" src="https://github.com/user-attachments/assets/66e3ce30-f5d1-40b1-b361-c488a879d788" />
 *Fig1: Schematic diagram of the proposed EF-SyncNet architecture.
 
 ## 2. Core Modules
