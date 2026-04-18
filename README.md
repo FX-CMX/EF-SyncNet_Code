@@ -1,4 +1,4 @@
-<img width="564" height="670" alt="图片" src="https://github.com/user-attachments/assets/c1ddf5fa-ff15-49c7-8f3b-822d5e3fca3d" /># EF-SyncNet: An Edge–Frequency Synchronized Multi-scale Network
+
 
 ---
 
